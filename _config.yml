@@ -1,0 +1,4 @@
+name: Parth Joshi
+markdown: kramdown
+gems:
+  - jekyll-sitemap
